@@ -23,6 +23,14 @@ h1 {
   color: #3493d5;
   margin: 10px 0;
 }
+h2{
+  font-family: "Great Vibes", cursive;
+  font-size: 22px;
+  color: #3493d5;
+ text-decoration: underline;
+}
+
+
 
 ul {
   padding: 0;
@@ -30,6 +38,7 @@ ul {
 
 li {
   list-style: none;
+  color: #f1a458;
 }
 
 nav ul {
